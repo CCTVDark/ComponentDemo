@@ -1,0 +1,22 @@
+PODS:
+  - LGDLogining (0.1.0):
+    - LGDNetworking
+  - LGDNetworking (0.1.0)
+
+DEPENDENCIES:
+  - LGDLogining (from `lib/LGDLogining`)
+  - LGDNetworking (from `lib/LGDNetworking`)
+
+EXTERNAL SOURCES:
+  LGDLogining:
+    :path: lib/LGDLogining
+  LGDNetworking:
+    :path: lib/LGDNetworking
+
+SPEC CHECKSUMS:
+  LGDLogining: 6967222abe0d967f9803606dd96afafcd51c6966
+  LGDNetworking: 11c1f37efbace4f6ec6a9396417085e058c8b709
+
+PODFILE CHECKSUM: 11189138fa65d847284b2377b21b390c63af2f70
+
+COCOAPODS: 1.9.3
